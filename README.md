@@ -14,6 +14,13 @@ A variety of stochastic processes.
 - Poisson process
   - compensated Poisson process
 
+
+## Requirements
+- Python3
+- Jupyter Notebook
+- Numpy
+- Matplotlib
+
 ## External Links
 - [Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion)
 - [Geometric Brownian motion](https://en.wikipedia.org/wiki/Geometric_Brownian_motion)
