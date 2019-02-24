@@ -12,6 +12,7 @@ A variety of stochastic processes.
   - Recurrency of random walk
 
 - Poisson process
+  - compensated Poisson process
 
 ## External Links
 - [Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion)
