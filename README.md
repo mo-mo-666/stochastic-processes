@@ -19,6 +19,7 @@ A variety of stochastic processes.
 - Python3
 - Jupyter Notebook
 - Numpy
+- Pandas
 - Matplotlib
 
 ## External Links
