@@ -1,6 +1,6 @@
 # Stochastic Processes
 A variety of stochastic processes. 
-The short definition or explanation of each process is written in a file. 
+*The short definition or explanation of each process is written in a file.* 
 
 ## Contents
 - Brownian motion (Wiener process)
