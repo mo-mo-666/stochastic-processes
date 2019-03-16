@@ -18,6 +18,9 @@ A variety of stochastic processes.
 - Poisson process
   - compensated Poisson process
 
+- Compound Poisson process
+  - Cramér-Lundberg Risk Process
+  - The M/G/1 queue
 
 ## Requirements
 - Python3
