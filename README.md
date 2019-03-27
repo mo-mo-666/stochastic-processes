@@ -4,7 +4,7 @@ A variety of stochastic processes.
 
 ## Contents
 - Brownian motion (Wiener process)
-  - Recurrency of Brownian motion
+  - Recurrence of Brownian motion
   - Arc-sine law of Lévy
   - Bessel process
   
@@ -13,7 +13,7 @@ A variety of stochastic processes.
     Black–Scholes equation, applied for finance
 
 - Random walk
-  - Recurrency of random walk
+  - Recurrence of random walk
 
 - Poisson process
   - compensated Poisson process
