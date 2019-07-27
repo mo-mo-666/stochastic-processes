@@ -14,6 +14,7 @@ A variety of stochastic processes.
 
 - Random walk
   - Recurrence of random walk
+  - Law of the iterated logarithm
 
 - Poisson process
   - compensated Poisson process
@@ -23,17 +24,13 @@ A variety of stochastic processes.
   - The M/G/1 queue
 
 ## Requirements
-- Python3
-- Jupyter Notebook
-- Numpy
-- Pandas
-- Matplotlib
-
+- Pipenv
 
 ## References
 - Y. Funaki: *Probability theory.* Asakura-shoten, 2004. (Japanese)
 - Hui-Hsiung Kuo: *Introduction to Stochastic Integration.* Springer, 2006.
 - Andreas F. Kyprianou: *Introductory Lectures on Fluctuations of Lévy Processes with Applications.* Springer, 2006.
+- https://www.math.kyoto-u.ac.jp/ja/event/seminar/probability
 
 ## External Links
 - [Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion)
