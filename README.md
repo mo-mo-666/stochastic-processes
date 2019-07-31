@@ -12,9 +12,14 @@ A variety of stochastic processes.
 
     Black–Scholes equation, applied for finance
 
-- Random walk
+- Simple random walk
   - Recurrence of random walk
   - Law of the iterated logarithm
+
+- Perturbed random walk
+
+- Reinforced random walk
+  - Pólya's urn
 
 - Poisson process
   - compensated Poisson process
@@ -22,6 +27,9 @@ A variety of stochastic processes.
 - Compound Poisson process
   - Cramér-Lundberg Risk Process
   - The M/G/1 queue
+
+- Random matrix
+  - Dyson model
 
 ## Requirements
 - Pipenv
