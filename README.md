@@ -17,6 +17,8 @@ A variety of stochastic processes.
   - Law of the iterated logarithm
 
 - Perturbed random walk
+  - Periodic
+  - on random media
 
 - Reinforced random walk
   - Pólya's urn

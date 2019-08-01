@@ -10,7 +10,7 @@ numpy = "*"
 scipy = "*"
 matplotlib = "*"
 seaborn = "*"
-jupyterlab = "*"
+jupyterlab = "==0.35.0"
 pandas = "*"
 
 [requires]
