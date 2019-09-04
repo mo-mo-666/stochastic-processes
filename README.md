@@ -1,36 +1,36 @@
 # Stochastic Processes
-A variety of stochastic processes. 
-*The short definition or explanation of each process is written in a file.* 
+A variety of stochastic processes.
+*The short definition or explanation of each process is written in a file.*
 
 ## Contents
-- Brownian motion (Wiener process)
+- [Brownian motion (Wiener process)](./processes/brownian-motion.ipynb)
   - Recurrence of Brownian motion
   - Arc-sine law of Lévy
   - Bessel process
-  
-- Geometric Brownian motion
+
+- [Geometric Brownian motion](./processes/geometric-brownian-motion.ipynb)
 
     Black–Scholes equation, applied for finance
 
-- Simple random walk
+- [Simple random walk](./processes/simple-random-walk.ipynb)
   - Recurrence of random walk
   - Law of the iterated logarithm
 
-- Perturbed random walk
+- [Perturbed random walk](./processes/perturbed-random-walk.ipynb)
   - Periodic
   - on random media
 
-- Reinforced random walk
+- [Reinforced random walk](./processes/reinforced-random-walk.ipynb)
   - Pólya's urn
 
-- Poisson process
+- [Poisson process](./processes/poisson-process.ipynb)
   - compensated Poisson process
 
-- Compound Poisson process
+- [Compound Poisson process](./processes/compound-poisson-process.ipynb)
   - Cramér-Lundberg Risk Process
   - The M/G/1 queue
 
-- Random matrix
+- [Random matrix](./processes/random-matrix.ipynb)
   - Dyson model
 
 ## Requirements
