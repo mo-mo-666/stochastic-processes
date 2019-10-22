@@ -6,6 +6,7 @@ A variety of stochastic processes.
 - [Brownian motion (Wiener process)](./processes/brownian-motion.ipynb)
   - Recurrence of Brownian motion
   - Arc-sine law of Lévy
+  - Passage time
   - Bessel process
 
 - [Geometric Brownian motion](./processes/geometric-brownian-motion.ipynb)
