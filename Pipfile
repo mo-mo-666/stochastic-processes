@@ -12,5 +12,7 @@ matplotlib = "*"
 seaborn = "*"
 jupyterlab = "*"
 pandas = "*"
+jupyter = "*"
 
 [requires]
+python_version = "3.7"
