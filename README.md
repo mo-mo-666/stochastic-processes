@@ -39,8 +39,9 @@ A variety of stochastic processes.
 
 ## References
 - Y. Funaki: *Probability theory.* Asakura-shoten, 2004. (Japanese)
-- Hui-Hsiung Kuo: *Introduction to Stochastic Integration.* Springer, 2006.
-- Andreas F. Kyprianou: *Introductory Lectures on Fluctuations of Lévy Processes with Applications.* Springer, 2006.
+- I. Karatzas, S. E. Shreve: *Brownian Motion and Stochastic Calculus.* 2nd Edition, Springer, 1997. 
+- H. Kuo: *Introduction to Stochastic Integration.* Springer, 2006.
+- A. E. Kyprianou: *Fluctuations of Lévy Processes with Applications.* 2nd Edition, Springer, 2014.
 - https://www.math.kyoto-u.ac.jp/ja/event/seminar/probability
 
 ## External Links
