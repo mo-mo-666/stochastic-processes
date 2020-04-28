@@ -4,10 +4,12 @@ A variety of stochastic processes.
 
 ## Contents
 - [Brownian motion (Wiener process)](./processes/brownian-motion.ipynb)
-  - Recurrence of Brownian motion
+  - Law of the iterated logarithm
   - Arc-sine law of Lévy
   - Passage time and Maximum
-  - Bessel process
+  - Brownian bridge
+  
+- [Bessel process](./processes/bessel-process.ipynb)
 
 - [Geometric Brownian motion](./processes/geometric-brownian-motion.ipynb)
 
