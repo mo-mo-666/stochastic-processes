@@ -13,10 +13,8 @@ A variety of stochastic processes.
 
 - [Geometric Brownian motion](./processes/geometric-brownian-motion.ipynb)
 
-    Black–Scholes equation, applied for finance
-
 - [Simple random walk](./processes/simple-random-walk.ipynb)
-  - Recurrence of random walk
+  - Recurrence of random walks
   - Law of the iterated logarithm
 
 - [Perturbed random walk](./processes/perturbed-random-walk.ipynb)
@@ -32,6 +30,9 @@ A variety of stochastic processes.
 - [Compound Poisson process](./processes/compound-poisson-process.ipynb)
   - Cramér-Lundberg Risk Process
   - The M/G/1 queue
+
+- [Renewal process](./processes/renewal-process.ipynb)
+  - Path property
 
 - [Random matrix](./processes/random-matrix.ipynb)
   - Dyson model
